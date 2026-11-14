@@ -7,7 +7,7 @@ require 'recipe/laravel.php';
 set('application', 'hitch_log');
 
 // Project repository
-set('repository', 'git@github.com:AydinHassan/hitchlog.git');
+set('repository', 'git@github.com:AydinAcme/hitchlog.git');
 
 // [Optional] Allocate tty for git clone. Default value is false.
 set('git_tty', true); 
